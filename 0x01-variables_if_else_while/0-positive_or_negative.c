@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /* more headers goes there */
 /**
  * main - A program that will assign a random number to n
@@ -19,7 +20,7 @@ int main(void)
 	{
 		printf("%d is zero", n);
 	}
-	else
+	else if (n < 0)
 	{
 		printf("%d is negative", n);
 	}
