@@ -1,3 +1,4 @@
+/*This created by Matthew Kuria 2023 for alx */
 #include <stdio.h>
 /**
  * main - A program that prints using printf function
