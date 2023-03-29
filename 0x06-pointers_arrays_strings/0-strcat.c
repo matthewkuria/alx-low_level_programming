@@ -1,3 +1,4 @@
+#include <string.h>
 #include "main.h"
 /**
  * strcat - Conctes the string point to by @src, including the terminating
